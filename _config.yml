@@ -47,8 +47,8 @@ nav:
 
 
 # Server
-destination:      	 ./_site
-port:             	 4000
+#destination:      	 ./_site
+#port:             	 4000
 
 
 #dependencies
