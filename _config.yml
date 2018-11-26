@@ -11,7 +11,7 @@ assets:
 logo: logo.png
 discus_shortname: MADness
 email: mad@ness.com
-url: "http://madforjekyll.github.io"
+url: "http://debrant.github.io"
 search: true
 share: true
 comments: true
@@ -38,7 +38,7 @@ deviantart_username: MAD4Jekyll
 flickr_username: MAD4Jekyll
 instagram_username: MAD4Jekyll
 
- 
+
 # Internal nav
 nav:
  writing: "root_url/writing/"
@@ -61,7 +61,7 @@ gems:
 highlighter:         rouge
 markdown:           kramdown
 kramdown:
-    extensions:     
+    extensions:
      - Hard_wrap
      - no_intra_emphasis
      - strikethrough
@@ -83,6 +83,6 @@ slugify: "pretty"
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-xxxxxxxx-x
-google_verify:      
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
