@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Goals"
+title: ""
 subtitle: "Leadership and learning are indispensable to each other"
 description: "-John F. Kennedy"
 header-img: "assets/owner/hero/about-bg.jpg"

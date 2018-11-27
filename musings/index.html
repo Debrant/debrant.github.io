@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Musings"
+title: ""
 description: "-Benjamin Franklin"
 subtitle: "An investment in knowledge pays the best interest"
 header-img: "assets/owner/hero/musings-bg.jpg"
@@ -19,7 +19,7 @@ permalink: /musings/
 
 <a href="{{ post.url | prepend: site.baseurl }}">
         {% if post.thumbnail %}
-	<img src="{{ post.thumbnail }}" style="float: left; margin: 8px 10px 0px 10px;">
+	<img src="{{ post.thumbnail }}" style="float: left; margin: 8px 10px 10px 10px; max-width: 150px; height: 100px;">
 	{% endif %}
 
 
@@ -31,7 +31,7 @@ permalink: /musings/
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta">Posted by {% if post.author %}{{ root_url }}{{ post.author }}{% else %}{{ root_url }}{{ site.title }}{% endif %} on {{ root_url }}{{ post.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-meta" >Posted by {% if post.author %}{{ root_url }}{{ post.author }}{% else %}{{ root_url }}{{ site.title }}{% endif %} on {{ root_url }}{{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
  {% endfor %}
 <p>&nbsp;</p>

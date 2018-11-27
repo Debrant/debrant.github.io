@@ -36,6 +36,14 @@ a img:hover,
 a img:focus {
   cursor: zoom-in;
 }
+inline-img {
+ display:block;
+ float: left;
+ padding: 20px;
+ max-width:25%;
+ margin:5 5 1rem;
+ border-radius:5px
+}
 blockquote {
   color: #808080;
   font-style: italic;
