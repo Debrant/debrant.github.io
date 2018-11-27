@@ -1,6 +1,7 @@
 # Site settings
-title: "MADness"
-description: A Template for Jekyll
+title: "Creative Engineering"
+description: Personal Webpages
+
 
 # Files
 baseurl:
@@ -9,8 +10,8 @@ assets:
   libs: assets/libs
   owner: assets/owner
 logo: logo.png
-discus_shortname: MADness
-email: mad@ness.com
+#discus_shortname: MADness
+email: bryant.engineering@gmail.com
 url: "https://debrant.github.io"
 search: true
 share: true
@@ -24,31 +25,30 @@ wpm: 200
 
 # Owner/author information
 owner:
-  name:   MADness
+  name:   Debrant
   avatar: avatar.jpg
   # Use the coder's toolbox at https://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    MAD for Jekyll
+  description:    My personal Webpages
+
 
 # Social networking links used in footer. Update and remove as you like.
-twitter_username: MAD4Jekyll
-facebook_username: MAD4Jekyll
-github_username: MAD4Jekyll
-deviantart_username: MAD4Jekyll
-500px_username: MAD4Jekyll
-flickr_username: MAD4Jekyll
-instagram_username: MAD4Jekyll
+twitter_username: innovate4fun
+facebook_username: nathan.bryant.37
+github_username: debrant
+instagram_username: nbryant73
+linkedin_username: bryantengineering
 
 
 # Internal nav
 nav:
- writing: "root_url/writing/"
- gallery: "root_url/gallery/"
- about: "root_url/about/"
+ musings: "root_url/musings/"
+ gallery: "root_url/family/"
+ about: "root_url/goals/"
 
 
 # Server
-#destination:      	 ./_site
-#port:             	 4000
+destination:      	 ./_site
+port:             	 4000
 
 
 #dependencies
@@ -75,8 +75,8 @@ kramdown:
 sass:
     style:          :compressed
 paginate: 5
-paginate_path: "/writing/page:num/"
-permalink: "/writing/:title/"
+paginate_path: "/musings/page:num/"
+permalink: "/musings/:title/"
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 slugify: "pretty"
 
