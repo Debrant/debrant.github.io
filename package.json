@@ -1,20 +1,23 @@
 {
-  "name": "creative engineering",
+  "name": "debrant.github.io",
   "version": "1.0.0",
-  "description": "Personal Webpages",
+  "description": "personal-webpages",
   "main": "Gruntfile.js",
   "dependencies": {
-    "magnific-popup": "^1.0.0"
+    "magnific-popup": "^1.0.0",
+    "grunt-cli"
   },
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "standard"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/debrant/debrant.github.io.git"
   },
-  "author": "madness",
+  "keywords": [
+    "nanotech"
+  ],
+  "author": "Nathan Bryant",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/debrant/debrant.github.io/issues"
