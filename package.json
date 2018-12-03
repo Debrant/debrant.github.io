@@ -1,7 +1,7 @@
 {
-  "name": "madness",
+  "name": "creative engineering",
   "version": "1.0.0",
-  "description": "madforjekyll",
+  "description": "Personal Webpages",
   "main": "Gruntfile.js",
   "dependencies": {
     "magnific-popup": "^1.0.0"
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sunbliss/sunbliss.github.io.git"
+    "url": "git+https://github.com/debrant/debrant.github.io.git"
   },
   "author": "madness",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sunbliss/sunbliss.github.io/issues"
+    "url": "https://github.com/debrant/debrant.github.io/issues"
   },
-  "homepage": "https://github.com/sunbliss/sunbliss.github.io#readme"
+  "homepage": "https://github.com/debrant/debrant.github.io#readme"
 }
