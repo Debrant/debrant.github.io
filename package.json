@@ -20,7 +20,7 @@
     "url": "git+https://github.com/debrant/debrant.github.io.git"
   },
   "keywords": [
-    "nanotech"
+    "nanotech", "atomically precise", "engineering"
   ],
   "author": "Nathan Bryant",
   "license": "ISC",

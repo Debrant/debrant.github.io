@@ -53,9 +53,9 @@ port:             	 4000
 
 #dependencies
 # Gems
-plugins:
+gems:
   - jekyll-paginate
-
+  - jekyll-sitemap
 
 # Build settings
 highlighter:         rouge
