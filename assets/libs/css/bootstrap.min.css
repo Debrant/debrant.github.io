@@ -7,8 +7,8 @@
 
 html {
   font-family: sans-serif;
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%
+  -webkit-text-size-adjust: 80%;
+  -ms-text-size-adjust: 80%
 }
 
 ::-webkit-scrollbar {
@@ -732,8 +732,8 @@ a .icon-flip-vertical:before {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-.icon-deviantart:before { 
-content: "\f1bd"; 
+.icon-deviantart:before {
+content: "\f1bd";
 }
 
 @font-face {
