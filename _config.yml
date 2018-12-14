@@ -30,6 +30,12 @@ owner:
   # Use the coder's toolbox at https://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    My personal Webpages
 
+author:
+  name             : "Nathan Bryant"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "engineer, designer, researcher, dad"
+  location         : "Somewhere in the PNW"
+
 
 # Social networking links used in footer. Update and remove as you like.
 twitter_username: innovate4fun
@@ -53,7 +59,7 @@ port:             	 4000
 
 #dependencies
 # Gems
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
