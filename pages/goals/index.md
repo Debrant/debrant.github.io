@@ -4,7 +4,7 @@ title: ""
 subtitle: "Leadership and learning are indispensable to each other"
 description: "-John F. Kennedy"
 header-img: "assets/owner/hero/about-bg.jpg"
-permalink: /goals/
+permalink: /about/
 ---
 
 <h2><p>About Me</p></h2>
@@ -24,7 +24,7 @@ permalink: /goals/
 #### I am currently finishing my masters thesis, and plan on defending it early in 2019. My thesis (title may change) is **A Dynamic model of trust for IOT Devices** tries to create a lightweight machine learning algorithm that will be capable of making situationally appropriate decisions other than just pass/ fail.
 </div>
 
-<h2><p>Professional Goals</p></h2>
+<h2><p>Professional About</p></h2>
 
 <div markdown="1">
 #### I was a late college student, having spent several decades (beginning in my teen years) working in the Food, Beverage and Entertainment industry. For many of those years, I would daylight in construction. First as a laborer, then as time progressed, a tradesmen in my own right. However a deep natural curiosity kept my love for science alive through those years and when the time came I made my move.

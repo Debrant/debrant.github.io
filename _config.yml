@@ -47,9 +47,9 @@ linkedin_username: in/bryantengineering
 
 # Internal nav
 nav:
- musings: "root_url/musings/"
+ posts: "root_url/posts/"
  gallery: "root_url/family/"
- about: "root_url/goals/"
+ about: "root_url/about/"
 
 
 # Server
@@ -81,8 +81,8 @@ kramdown:
 sass:
     style:          :compressed
 paginate: 5
-paginate_path: "/musings/page:num/"
-permalink: "/musings/:title/"
+paginate_path: "/posts/page:num/"
+permalink: "/posts/:title/"
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 slugify: "pretty"
 
