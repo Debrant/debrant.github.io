@@ -7,7 +7,7 @@ author:     "MADness"
 header-img: "assets/owner/blog/header/post-bg-01.jpg"
 thumbnail: /assets/owner/blog/thumbs/thumb01.png
 tags: [ISOTOPE, MAD4Jekyll]
-category: [Jekyll]
+category: [holder]
 comments: false
 share: false
 gallery1:

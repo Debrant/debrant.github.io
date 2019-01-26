@@ -8,7 +8,7 @@ header-img: "assets/owner/blog/header/post-bg-02.jpg"
 thumbnail: /assets/owner/blog/thumbs/thumb02.png
 
 tags: [Webpages, Jekyll]
-category: [cat01]
+category: [Jekyll]
 comments: false
 share: false
 ---

@@ -7,7 +7,7 @@ author:     "Debrant"
 header-img: "assets/owner/blog/header/post-bg-01.jpg"
 thumbnail: /assets/owner/blog/thumbs/thumb01.png
 tags: [Webpages, Jekyll]
-category: [cat03]
+category: [Jekyll]
 comments: false
 share: false
 ---
