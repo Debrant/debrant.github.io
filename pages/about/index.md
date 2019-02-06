@@ -7,29 +7,29 @@ header-img: "assets/owner/hero/about-bg.jpg"
 permalink: /about/
 ---
 
-<h2><p>About Me</p></h2>
+
 
 <div markdown="1">
 
-### My name is Nathan Bryant,
+## Personal:
+#### My name is Nathan Bryant, Technologist, Father, Husband, aspiring writer and reader of many things. I love stories, history and culture. I have been blessed with  freedoms that allowed me to travel extensively, wear many hats and redefine myself as needed along the way.
 
-#### I currently work as an embedded systems engineer for [TigerStop](https://www.tigerstop.com/), a world leader in automatic and stop gauge technology.  Our corporate charter is one that makes it easy to feel good about going into work everyday;
+#### I have always loved story telling and exploring that craft is one of the main reasons I started this site. Along the way I decided it was also a good place to hold other things of interest that I am working on. I also have been using the site to explore Web Development and I am currently using Jekyll, a Ruby based, blog aware, static website maker. I will probably change the styling several times until I find my own way of doing things, but for the time being I have been hacking the Jeckyll theme [MAD4Jekyll](http://madforjekyll.github.io/).
 
-> ### Empowering local manufacturers to be globally competitive.
+#### I am still figuring out the best organizational scheme, but for the time being I am using the tags and categories to sort my writing. I am writing a story which for now I am calling Timelines, but you will also find random vignettes, side projects and poetry.
 
-</div>
-<div markdown="1">
-#### I have a B.S. in Electrical Engineering & Physics a joint degree made possible by cooperation between the [Maseeh College of Engineering & Computer Science](https://www.pdx.edu/cecs/home) and the Physics department of the [College of Liberal Arts & Sciences](https://www.pdx.edu/physics/) at  [PSU](https://www.pdx.edu)
+## Education:
+#### I studied Electrical E ngineering & Physics locally at the  at  [PSU](https://www.pdx.edu) and am currently taking my time writing my thesis,   **"A Dynamic model of trust for IOT Devices."** In which I try to create a lightweight machine learning algorithm that will be capable of making situationally appropriate decisions other than just pass/ fail.
 
-#### I am currently finishing my masters thesis, and plan on defending it early in 2019. My thesis (title may change) is **A Dynamic model of trust for IOT Devices** tries to create a lightweight machine learning algorithm that will be capable of making situationally appropriate decisions other than just pass/ fail.
-</div>
 
-<h2><p>Professional About</p></h2>
+## Professional:
 
-<div markdown="1">
-#### I was a late college student, having spent several decades (beginning in my teen years) working in the Food, Beverage and Entertainment industry. For many of those years, I would daylight in construction. First as a laborer, then as time progressed, a tradesmen in my own right. However a deep natural curiosity kept my love for science alive through those years and when the time came I made my move.
+#### I am the Director of Research and Development at Precision Automation, a division of [TigerStop](https://www.tigerstop.com/). TigerStop is a world leader in automatic and stop gauge technology. Even so, our team of dedicated engineers in R&D work to expand our product lines into manufacturing markets in need of impactful and creative solutions. We believe that manufacturing is an essential cornerstone of a healthy community.  
 
-#### While it is true that I enjoy the work I do at TigerStop, my true passions are, and have been for years, much much smaller. Small as in nano-scale and smaller, Atomically Precise Manufacturing, in my opinion, will shape our future as a species. It will mean economic dominance for the country that achieves the first breakthroughs of real significance. I hope to have time after my thesis defense to begin applying for patents. I would welcome any serious discussion on the subject (just click the email button below).
+
+#### As a non-traditional engineer I bring the insight gained through decades of experience across multiple industries. As a leader I strive to inspire creativity, flexibility and stewardship.
+
+
 
 </div>
 <div>
