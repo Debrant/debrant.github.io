@@ -2162,12 +2162,12 @@ a.text-danger:hover {
 
 .bg-primary {
   color: #fff;
-  background-color: #ffffff
+  background-color: #f6f1e9
 }
 
 a.bg-primary:focus,
 a.bg-primary:hover {
-  background-color: #ffffff
+  background-color: #f6f1e9
 }
 
 .bg-success {
@@ -2189,7 +2189,7 @@ a.bg-info:hover {
 }
 
 .bg-warning {
-  background-color: #fcf8e3
+  background-color: #f6f1e9
 }
 
 a.bg-warning:focus,

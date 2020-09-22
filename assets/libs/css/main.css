@@ -394,7 +394,7 @@ form .row:first-child .floating-label-form-group {
 .pager li > a:hover,
 .pager li > a:focus {
   color: #e81062;
-  background-color: #4d3232;
+  background-color: #f6f1e9;
   border: 1px solid #e81062;
   border-radius: 15px;
 }
@@ -403,13 +403,13 @@ form .row:first-child .floating-label-form-group {
 .pager .disabled > a:focus,
 .pager .disabled > span {
   color: #808080;
-  background-color: #404040;
+  background-color: #f6f1e9;
   cursor: not-allowed;
 }
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #f6f1e9;
 }
 ::selection {
   color: white;
