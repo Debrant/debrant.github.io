@@ -2,7 +2,6 @@
 title: "Creative Engineering"
 description: Personal Webpages
 
-theme: jekyll-theme-heliumjk
 # Files
 baseurl:
 pagesdir: pages
@@ -48,7 +47,7 @@ linkedin_username: in/bryantengineering
 # Internal nav
 nav:
  posts: "root_url/writing/"
- gallery: "root_url/random/"
+ random: "root_url/random/"
  about: "root_url/about/"
  thesis: "root_url/acedemic"
 
