@@ -1,0 +1,25 @@
+I"�<h1 id="no-style-plus-font-shadowing">No style plus font shadowing</h1>
+
+<p>So everything looked great on http://localhost:4000, but after pushing up to my repo it looks like this.
+<img src="/assets/owner/blog/body/oops.png" alt="No CSS" /></p>
+
+<p>A review of the debug console eventually showed that the original repo was all http: and now my pages won’t display with mixed  content. A fast find and replace and I am up and running.</p>
+
+<hr />
+
+<p>Now I start to customize the style sheets and format of the template. You may remember, last time I said that I wanted to make the inline images display nicer than default with markdown. To do this I hoped over to https://www.w3schools.com/css/default.asp and read the first four entries and did the “How To” exercise. I decided what I wanted was a nice, size restricted image with a few extras like padding. I made the following class in my main.css</p>
+
+<pre><code class="language-CSS">inline-img {
+ display:block;
+ float: left;
+ padding: 20px;
+ max-width:25%;
+ margin:5 5 1rem;
+ border-radius:5px
+}
+</code></pre>
+
+<h2 id="next-time">Next time</h2>
+
+<p>I am going to find a way to make all of the images in the slider gallery the same height, and then fix the search element</p>
+:ET

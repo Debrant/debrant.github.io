@@ -7,7 +7,7 @@ author:     "MADness"
 header-img: "assets/owner/blog/header/post-bg-02.jpg"
 thumbnail: /assets/owner/blog/thumbs/thumb02.png
 tags: [kramdown, MAD4Jekyll]
-categories: [cat01, cat02, random]
+categories: [cat01, cat02, cat03]
 ---
 
 > This is Markdown Cheatsheet for **MAD4Jekyll**, this Jekyll theme. Please check the raw content of this file for the markdown usage.

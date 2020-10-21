@@ -1,0 +1,134 @@
+I"�<p> Content of your post HERE </p>
+
+<p> Add as many paragraphs amongst your galleries as you want. </p>
+
+<div class="gallery masonry-gallery">
+  
+
+  <figure class="gallery-item">
+
+	<header class="gallery-icon">
+
+<a href="http://localhost:4000/assets/owner/blog/galleries/g01/bg1.jpg" class="popup" title="IMAGE TITLE" data-caption="© MADness">
+<img src="http://localhost:4000/assets/owner/blog/galleries/g01/bg1.jpg" /></a>
+						
+	</header>	
+		
+   <figcaption class="gallery-caption">
+		<div class="entry-summary" id="IMAGE TITLE">
+				<h5 style="text-shadow: 2px 2px #000000;">IMAGE TITLE</h5>
+					<h6 style="text-shadow: 2px 2px #000000;">© MADness</h6>
+						</div>
+					</figcaption>
+				</figure>
+
+  
+
+  <figure class="gallery-item">
+
+	<header class="gallery-icon">
+
+<a href="http://localhost:4000/assets/owner/blog/galleries/g01/bg2.jpg" class="popup" title="IMAGE TITLE" data-caption="© MADness">
+<img src="http://localhost:4000/assets/owner/blog/galleries/g01/bg2.jpg" /></a>
+						
+	</header>	
+		
+   <figcaption class="gallery-caption">
+		<div class="entry-summary" id="IMAGE TITLE">
+				<h5 style="text-shadow: 2px 2px #000000;">IMAGE TITLE</h5>
+					<h6 style="text-shadow: 2px 2px #000000;">© MADness</h6>
+						</div>
+					</figcaption>
+				</figure>
+
+  
+
+  <figure class="gallery-item">
+
+	<header class="gallery-icon">
+
+<a href="http://localhost:4000/assets/owner/blog/galleries/g01/bg3.jpg" class="popup" title="IMAGE TITLE" data-caption="© MADness">
+<img src="http://localhost:4000/assets/owner/blog/galleries/g01/bg3.jpg" /></a>
+						
+	</header>	
+		
+   <figcaption class="gallery-caption">
+		<div class="entry-summary" id="IMAGE TITLE">
+				<h5 style="text-shadow: 2px 2px #000000;">IMAGE TITLE</h5>
+					<h6 style="text-shadow: 2px 2px #000000;">© MADness</h6>
+						</div>
+					</figcaption>
+				</figure>
+
+  
+</div>
+
+<!-- end of GALLERY __ -->
+
+<p> Add as many galleries as you want, including as many photos as you want. Simply edit the <b>FRONT MATTER</b> of the post, adding the corresponding <b>path</b>, <b>caption</b> and <b>copyright</b> info for each one of your photos. </p>
+
+<div class="gallery masonry-gallery">
+  
+
+  <figure class="gallery-item">
+
+	<header class="gallery-icon">
+
+<a href="http://localhost:4000/assets/owner/blog/galleries/g02/bg1.jpg" class="popup" title="IMAGE TITLE" data-caption="© MADness">
+<img src="http://localhost:4000/assets/owner/blog/galleries/g02/bg1.jpg" /></a>
+						
+	</header>	
+		
+   <figcaption class="gallery-caption">
+		<div class="entry-summary" id="IMAGE TITLE">
+				<h5 style="text-shadow: 2px 2px #000000;">IMAGE TITLE</h5>
+					<h6 style="text-shadow: 2px 2px #000000;">© MADness</h6>
+						</div>
+					</figcaption>
+				</figure>
+
+  
+
+  <figure class="gallery-item">
+
+	<header class="gallery-icon">
+
+<a href="http://localhost:4000/assets/owner/blog/galleries/g02/bg2.jpg" class="popup" title="IMAGE TITLE" data-caption="© MADness">
+<img src="http://localhost:4000/assets/owner/blog/galleries/g02/bg2.jpg" /></a>
+						
+	</header>	
+		
+   <figcaption class="gallery-caption">
+		<div class="entry-summary" id="IMAGE TITLE">
+				<h5 style="text-shadow: 2px 2px #000000;">IMAGE TITLE</h5>
+					<h6 style="text-shadow: 2px 2px #000000;">© MADness</h6>
+						</div>
+					</figcaption>
+				</figure>
+
+  
+
+  <figure class="gallery-item">
+
+	<header class="gallery-icon">
+
+<a href="http://localhost:4000/assets/owner/blog/galleries/g02/bg3.jpg" class="popup" title="IMAGE TITLE" data-caption="© MADness">
+<img src="http://localhost:4000/assets/owner/blog/galleries/g02/bg3.jpg" /></a>
+						
+	</header>	
+		
+   <figcaption class="gallery-caption">
+		<div class="entry-summary" id="IMAGE TITLE">
+				<h5 style="text-shadow: 2px 2px #000000;">IMAGE TITLE</h5>
+					<h6 style="text-shadow: 2px 2px #000000;">© MADness</h6>
+						</div>
+					</figcaption>
+				</figure>
+
+  
+</div>
+
+<!-- end of GALLERY __ -->
+
+<h6 id="image-source-unsplash">Image Source: <a href="https://unsplash.com/photos/j0g8taxHZa0">UNSPLASH</a></h6>
+:ET

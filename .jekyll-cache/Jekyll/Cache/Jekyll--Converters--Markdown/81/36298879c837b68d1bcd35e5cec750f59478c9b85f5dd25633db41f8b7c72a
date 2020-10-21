@@ -1,0 +1,25 @@
+I"s<h2 id="personal">Personal:</h2>
+
+<h4 id="i-love-stories-history-and-culture-i-have-been-blessed-with-a-freedom-that-has--allowed-me-to-travel-extensively-wear-many-hats-and-redefine-myself-as-needed-along-the-way">I love stories, history and culture. I have been blessed with a freedom that has  allowed me to travel extensively, wear many hats, and redefine myself as needed along the way.</h4>
+
+<h4 id="i-have-always-been-passionate-about-story-telling-and-exploring-that-craft-is-one-of-the-main-reasons-i-started-this-site-along-the-way-i-decided-it-was-also-a-good-place-to-hold-other-things-of-interest-that-i-am-working-on-i--have-been-using-the-site-to-explore-web-development-and-i-am-currently-using-jekyll-a-ruby-based-blog-aware-static-website-maker-i-will-probably-change-the-styling-several-times-until-i-find-my-own-way-of-doing-things-but-for-the-time-being-i-have-been-hacking-the-jeckyll-theme-mad4jekyll">I have always been passionate about story telling, and exploring that craft is one of the main reasons I started this site. Along the way I decided it was also a good place to hold other things of interest that I am working on. I  have been using the site to explore Web Development, and I am currently using Jekyll, a Ruby based, blog aware, static website maker. I will probably change the styling several times until I find my own way of doing things, but for the time being I have been hacking the Jeckyll theme, <a href="http://madforjekyll.github.io/">MAD4Jekyll</a>.</h4>
+
+<h4 id="i-am-still-figuring-out-the-best-organizational-scheme-for-the-time-being-i-have-settled-in-to-using-tags-and-categories-to-sort-my-writing--you-may-find-random-vignettes-side-projects-poetry-fiction-and-academic-writing-depending-on-where-you-click">I am still figuring out the best organizational scheme, for the time being I have settled in to using tags and categories to sort my writing.  You may find random vignettes, side projects, poetry, fiction and academic writing depending on where you click.</h4>
+
+<h2 id="education">Education:</h2>
+<h4 id="i-studied-electrical-engineering--physics-locally-at-the--at--psu-and-am-currently-taking-my-time-writing-my-thesis---a-dynamic-model-of-trust-for-iot-devices-in-which-i-try-to-create-a-lightweight-machine-learning-algorithm-that-will-be-capable-of-making-situationally-appropriate-decisions-other-than-just-pass-fail">I studied Electrical Engineering &amp; Physics locally at the  at  <a href="https://www.pdx.edu">PSU</a> and am currently taking my time writing my thesis,   <strong>“A Dynamic model of trust for IOT Devices.”</strong> In which I try to create a lightweight machine learning algorithm that will be capable of making situationally appropriate decisions other than just pass/ fail.</h4>
+
+<h2 id="professional">Professional:</h2>
+
+<h4 id="i-am-currently-the-director-of-operations-at-tigerstop-having-worked-my-way-up-through-the-ranks-from-design-engineer-to-get-here-tigerstop-is-a-world-leader-in-automatic-and-stop-gauge-technology-even-so-our-team-of-dedicated-engineers-in-rd-work-to-expand-our-product-lines-into-manufacturing-markets-in-need-of-impactful-and-creative-solutions-we-believe-that-manufacturing-is-an-essential-cornerstone-of-a-healthy-community">I am currently the Director of Operations at <a href="https://www.tigerstop.com/">TigerStop</a>, having worked my way up through the ranks from design engineer to get here. TigerStop is a world leader in automatic and stop gauge technology. Even so, our team of dedicated engineers in R&amp;D work to expand our product lines into manufacturing markets in need of impactful and creative solutions. We believe that manufacturing is an essential cornerstone of a healthy community.</h4>
+
+<h4 id="as-a-non-traditional-engineer-i-bring-the-insight-gained-through-decades-of-experience-across-multiple-industries-as-a-leader-i-strive-to-inspire-creativity-flexibility-and-stewardship">As a non-traditional engineer I bring the insight gained through decades of experience across multiple industries. As a leader I strive to inspire creativity, flexibility and stewardship.</h4>
+
+<div>
+    <a href="mailto:bryant.engineering@gmail.com" data-toggle="tooltip" target="_blank" title="Email" style=" color:#877070;font-size:1em;text-decoration:none;">
+      <span class="fa-stack fa-lg">
+      <i class="fa fa-square fa-stack-2x"></i>
+      <i class="fa fa-envelope-o fa-stack-1x fa-inverse"></i></span>
+    </a>
+</div>
+:ET
